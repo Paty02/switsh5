@@ -1,0 +1,7 @@
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\obj\Debug\switsh5.csprojResolveAssemblyReference.cache
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\obj\Debug\switsh5.csproj.CoreCompileInputs.cache
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\bin\Debug\switsh5.exe.config
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\bin\Debug\switsh5.exe
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\bin\Debug\switsh5.pdb
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\obj\Debug\switsh5.exe
+C:\Users\paaty\Desktop\programas\seleccion\switsh5\switsh5\obj\Debug\switsh5.pdb
